@@ -4,7 +4,7 @@
 
 ---
 
-#####  [新冠病毒疫源和武汉病毒所调查报告全文](https://github.com/gfw-breaker/ccp-virus)
+##### [各类禁书下载](http://45.77.56.169:10000/bbooks/) &nbsp;|&nbsp; [新冠病毒疫源和武汉病毒所调查报告全文](https://github.com/gfw-breaker/ccp-virus)
 
 ---
 
