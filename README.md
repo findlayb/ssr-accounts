@@ -1,10 +1,10 @@
 # V2Ray 免费账号（速度比SS块，且不易被封锁）
 
-##### [免翻墙观看油管热门视频](http://45.77.56.169:81/youtube.html) &nbsp;|&nbsp; [苹果手机使用无界VPN翻墙](https://github.com/gfw-breaker/nogfw/blob/master/docs/iphone_u.md)
+##### [免翻墙观看油管热门视频](http://209.222.30.114:81/youtube.html) &nbsp;|&nbsp; [苹果手机使用无界VPN翻墙](https://github.com/gfw-breaker/nogfw/blob/master/docs/iphone_u.md)
 
 ---
 
-##### [各类禁书下载](http://45.77.56.169:10000/bbooks/) &nbsp;|&nbsp; [新冠病毒疫源和武汉病毒所调查报告全文](https://github.com/gfw-breaker/ccp-virus)
+##### [各类禁书下载](http://209.222.30.114:10000/bbooks/) &nbsp;|&nbsp; [新冠病毒疫源和武汉病毒所调查报告全文](https://github.com/gfw-breaker/ccp-virus)
 
 ---
 
